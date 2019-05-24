@@ -1,0 +1,10 @@
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\obj\Debug\ImageProcess.csprojAssemblyReference.cache
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\obj\Debug\ImageProcess.Properties.Resources.resources
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\obj\Debug\ImageProcess.csproj.GenerateResource.cache
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\obj\Debug\ImageProcess.csproj.CoreCompileInputs.cache
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\bin\Debug\ImageProcess.exe.config
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\bin\Debug\ImageProcess.exe
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\bin\Debug\ImageProcess.pdb
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\obj\Debug\ImageProcess.exe
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\obj\Debug\ImageProcess.pdb
+C:\Users\VU VU\Downloads\XULYANH\ImageProcessTL\ImageProcess\ImageProcess\obj\Debug\ImageProcess.bieudo.resources
